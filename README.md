@@ -56,11 +56,18 @@ Criar um sistema completo para registrar dados de vacinação e gerar um QR Code
 
 Este projeto foi desenvolvido como parte do Trabalho de Conclusão de Curso (TCC), com foco na melhoria do acesso e armazenamento dos registros de vacinação infantil.
 
-## 📷 Prints e Telas
+## 📷 Telas
 
-- Tela do formulário
-- QR Code gerado
-- Interface do app
+### Tela de Login
+  <img width="1901" height="940" alt="image" src="https://github.com/user-attachments/assets/6ad2e425-6596-421d-978e-cb8566954b3e" />
+### Painel
+  <img width="1915" height="940" alt="image" src="https://github.com/user-attachments/assets/b448abc8-a888-4be0-bff9-354cb81765ad" />
+### Perfil & Registro
+  <img width="1900" height="942" alt="image" src="https://github.com/user-attachments/assets/f5d85b28-3a8c-4bbb-b935-fc1c640c8ea3" />
+### Formuário para gerar QrCode para Campanhas
+  <img width="1903" height="939" alt="image" src="https://github.com/user-attachments/assets/252a89b9-be9c-4266-a276-a1d1df03c25f" />
+  <img width="1899" height="941" alt="image" src="https://github.com/user-attachments/assets/f2412841-2936-43ef-84ab-7d59f2ab4c92" />
+
 
 ---
 
